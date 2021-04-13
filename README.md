@@ -1,5 +1,7 @@
 # Java Course Code
 
+Java课程学习笔记与作业。
+
 The current repository mainly consists of course assignment codes.
 
 > Author: datamonday
@@ -10,5 +12,5 @@ The current repository mainly consists of course assignment codes.
 
 ---
 
-# Java Course Notes
+# 
 
